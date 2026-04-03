@@ -8,4 +8,4 @@ Designed for ease of use, a clean interface, and extensive scripting capabilitie
 
 Use Issues for bugs and suggestions.
 
-![Engine Screenshot](images/image1.jpg)
+![Engine Screenshot](images/image.png)
