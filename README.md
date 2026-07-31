@@ -6,6 +6,8 @@ Designed for ease of use, a clean interface, and extensive scripting capabilitie
 
 **[Read the Scripting Documentation](Scripting.md)**
 
+![Engine Screenshot](Images/image.png)
+
 ## Codebase is currently under heavy refactoring!
 
 Use Issues for bugs and suggestions.
@@ -28,5 +30,3 @@ Use Issues for bugs and suggestions.
 | [SoLoud](https://github.com/jarikomppa/soloud) | [Zlib](https://github.com/jarikomppa/soloud/blob/master/LICENSE) |
 
 *Note: These libraries may have their own dependencies with different licenses.*
-
-![Engine Screenshot](Images/image.png)
