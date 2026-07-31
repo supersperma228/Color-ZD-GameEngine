@@ -4,6 +4,8 @@ Written in C++ using OpenGL.
 
 Designed for ease of use, a clean interface, and extensive scripting capabilities.
 
+**[Read the Scripting Documentation](Scripting.md)**
+
 ## Codebase is currently under heavy refactoring!
 
 Use Issues for bugs and suggestions.
