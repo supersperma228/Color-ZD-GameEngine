@@ -15,7 +15,7 @@
 
 ---
 
-![Engine Screenshot](Media/editor.png)
+![Engine Screenshot](media/editor.png)
 
 ## ⚠️ Project Status
 
@@ -30,15 +30,15 @@ A quick look at some of the engine's core systems in action.
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="Media/simple_ai.gif" alt="Simple AI Demo" width="100%"/><br/>
+      <img src="media/simple_ai.gif" alt="Simple AI Demo" width="100%"/><br/>
       <sub><b>Simple AI</b><br/>A basic AI agent navigating and moving across a flat plane.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="Media/smoke.gif" alt="Smoke Simulation Demo" width="100%"/><br/>
+      <img src="media/smoke.gif" alt="Smoke Simulation Demo" width="100%"/><br/>
       <sub><b>Smoke Simulation</b><br/>Realistic smoke rendering and effects.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="Media/jolt.gif" alt="Jolt Physics Demo" width="100%"/><br/>
+      <img src="media/jolt.gif" alt="Jolt Physics Demo" width="100%"/><br/>
       <sub><b>Jolt Physics</b><br/>Three cubes falling and colliding, demonstrating physics via Jolt.</sub>
     </td>
   </tr>
